@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Unreal\\ObstacleCourse 5.1\\Source\\ObstacleCourse\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleCourse 5.1\\.vscode\\compileCommands_Default\\ObstacleCourse.249.rsp"
+		],
+		"directory": "F:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\ObstacleCourse 5.1\\Source\\ObstacleCourse\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleCourse 5.1\\.vscode\\compileCommands_Default\\ObstacleCourse.249.rsp"
+		],
+		"directory": "F:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\ObstacleCourse 5.1\\Source\\ObstacleCourse\\ObstacleCourse.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleCourse 5.1\\.vscode\\compileCommands_Default\\ObstacleCourse.249.rsp"
+		],
+		"directory": "F:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\ObstacleCourse 5.1\\Source\\ObstacleCourse\\ObstacleCourse.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleCourse 5.1\\.vscode\\compileCommands_Default\\ObstacleCourse.249.rsp"
+		],
+		"directory": "F:\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\ObstacleCourse 5.1\\Source\\ObstacleCourse\\ObstacleCourse.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+			"@E:\\Unreal\\ObstacleCourse 5.1\\.vscode\\compileCommands_Default\\ObstacleCourse.249.rsp"
+		],
+		"directory": "F:\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
